@@ -5,3 +5,5 @@ Bronto browser is a simple piece of software. Our goal is simple - to create a b
 I will really like anynone who wants to help me creating this project.
 
 * this is version 1.0 - that means no tabs no good GUI etc. Its only basics of the app.
+
+## Edit 2020: This was fun-only project. Nothing serious <3.
